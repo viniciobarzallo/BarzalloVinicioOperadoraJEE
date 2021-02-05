@@ -1,6 +1,6 @@
 ec\edu\ups\app\modelo\RecargaFactura.class
-ec\edu\ups\app\vista\Main.class
 ec\edu\ups\app\on\ONGestion.class
 ec\edu\ups\app\modelo\ClienteFactura.class
 ec\edu\ups\app\dao\DaoGestion.class
 ec\edu\ups\app\modelo\Factura.class
+ec\edu\ups\app\vista\Main.class

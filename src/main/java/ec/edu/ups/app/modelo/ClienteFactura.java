@@ -22,7 +22,7 @@ public class ClienteFactura {
     private String cedula;
 
     private String nombre;
-    private String numeroCeular;
+    private String numeroCelular;
     private double saldo;
 
     @JsonIgnore
@@ -45,13 +45,15 @@ public class ClienteFactura {
         this.nombre = nombre;
     }
 
-    public String getNumeroCeular() {
-        return numeroCeular;
+    public String getNumeroCelular() {
+        return numeroCelular;
     }
 
-    public void setNumeroCeular(String numeroCeular) {
-        this.numeroCeular = numeroCeular;
+    public void setNumeroCelular(String numeroCelular) {
+        this.numeroCelular = numeroCelular;
     }
+
+
 
     public double getSaldo() {
         return saldo;

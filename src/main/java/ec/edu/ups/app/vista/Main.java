@@ -33,7 +33,7 @@ public class Main extends HttpServlet {
             ClienteFactura cl = new ClienteFactura();
             cl.setCedula("0103343588");
             cl.setNombre("Raquel");
-            cl.setNumeroCeular("099022323");
+            cl.setNumeroCelular("099022323");
             cl.setSaldo(1.21);
 
             Factura f = new Factura();
